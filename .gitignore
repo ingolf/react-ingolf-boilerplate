@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+node_modules
+npm-debug.log
+build
+*.js.map
+*.css.json
+*.log
+.env
+statistics.html

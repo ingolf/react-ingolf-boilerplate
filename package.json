@@ -1,0 +1,9 @@
+{
+  "name": "react-ingolf-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for creating React applications with webpack 4, ssr, redux, redux-saga",
+  "main": "index.js",
+  "repository": "https://github.com/ingolf/react-ingolf-boilerplate.git",
+  "author": "Igor Trubitsyn",
+  "license": "MIT"
+}
